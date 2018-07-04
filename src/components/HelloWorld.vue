@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to msr7 vue-docker-demo !'
+      msg: 'Welcome to 谢远新!'
     }
   }
 }
